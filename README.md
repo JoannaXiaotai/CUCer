@@ -1,2 +1,2 @@
 # CUCer
-a homework and a strong project for student
+a homework and a strong project for students
